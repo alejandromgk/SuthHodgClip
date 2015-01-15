@@ -1,0 +1,8 @@
+Para compilar ejecutar en una consola:
+  
+  > make all
+  
+Y para ejecutar el programa, dentro de la misma consola escribir:
+  > ./ejecutableP2
+
+
